@@ -1,0 +1,9 @@
+import random
+from random import *
+
+a=[]
+for i in range(21):
+    a.append()
+    print(a)
+
+    
